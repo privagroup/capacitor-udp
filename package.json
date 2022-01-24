@@ -1,6 +1,6 @@
 {
-  "name": "@frontall/capacitor-udp",
-  "version": "0.3.4",
+  "name": "@priva/capacitor-udp",
+  "version": "1.0.0",
   "private": false,
   "description": "UDP Plugin for CapacitorJS inspired by the UDP Plugin of https://github.com/unitree-czk/capacitor-udp",
   "main": "dist/plugin.cjs.js",
@@ -12,16 +12,16 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "FrontallCapacitorUdp.podspec"
+    "PrivaCapacitorUdp.podspec"
   ],
   "author": "Lieuwe van Brug",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brugsel/capacitor-udp.git"
+    "url": "git+https://github.com/privagroup/capacitor-udp.git"
   },
   "bugs": {
-    "url": "https://github.com/brugsel/capacitor-udp/issues"
+    "url": "https://github.com/privagroup/capacitor-udp/issues"
   },
   "keywords": [
     "capacitor",
